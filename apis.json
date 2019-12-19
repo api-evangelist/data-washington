@@ -1,0 +1,67 @@
+{
+    "name": "Data.Washington",
+    "description": "The Employment Security Department helps Washington state\u2019s workers and employers succeed in the global economy by delivering superior employment services, timely unemployment benefits, and a fair and stable unemployment-benefits system.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/758-data-washington.jpg",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api",
+        "state government",
+        "washington"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/data-washington\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Data.Washington",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/758-data-washington.jpg",
+            "humanURL": "https:\/\/wa.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/data-washington-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/data-washington-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/data.wa.gov\/resources\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/access-washington"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/data.wa.gov\/"
+        },
+        {
+            "type": "Email",
+            "url": "AccessWA@des.wa.gov"
+        },
+        {
+            "type": "Email",
+            "url": "publicdisclosure@cts.wa.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/wsdot"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/wa.gov\/"
+        }
+    ]
+}
